@@ -1,0 +1,19 @@
+{
+  "name": "ms-authentication",
+  "version": "1.0.0",
+  "description": "Microservice criado durante o live code com o pessoal da DIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helsonmatos/Estilo-arquitetural-rest-com-nodejs.git"
+  },
+  "author": "Helson Matos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helsonmatos/Estilo-arquitetural-rest-com-nodejs/issues"
+  },
+  "homepage": "https://github.com/helsonmatos/Estilo-arquitetural-rest-com-nodejs#readme"
+}
